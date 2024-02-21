@@ -1,5 +1,7 @@
 # OOP - Final Project
 
+Goal: Create a new portfolio website on GitHub Pages
+
 ## Instructions
 
 1. Clone the repository to your local machine
